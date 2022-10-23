@@ -1,0 +1,103 @@
+body{
+    font-family: 'Irish Grover', cursive;
+}
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: url("Imagenes/modernismo-2-e1560213927430.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+}
+.home1{
+    width: 100%;
+    height: 100vh;
+    background-image: url("Imagenes/biblioteca.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+}
+
+.logo {
+    width: 100%;
+}
+.cont{
+    margin: 0 auto;
+    width: 800px;
+}
+
+.Control{
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    border-radius: 10px;
+    background-color: #4267B2;
+    color: white;
+    border: none;
+    height: 45px;
+    width: 320px;
+
+}
+.Google{
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button2{
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    color: #000000;
+    border: none;
+    height: 45px;
+    width: 320px;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 45px;
+}
+
+.p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+.imglogo{
+    width: 32px;
+}
+
+.a{
+    margin-top: 20px;
+    height: 60px;
+    width: 300px;
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.Jugar{
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Opciones{
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.o{
+    margin-top: 20px;
+    height: 60px;
+    width: 300px;
+    font-size: 30px;
+    line-height: 60px;
+}
